@@ -1,0 +1,36 @@
+header{
+    background-color: brown;
+}
+
+header .navbar-brand{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px black;
+}
+
+section h1{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+}
+section .especialidade{
+    color: white;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+section{
+    background-color:black;
+}
+
+section .card-text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+footer{
+    background-color: black;
+    font-size: 50px;
+    color: white;
+    padding: 100px;
+}
